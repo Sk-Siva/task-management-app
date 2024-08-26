@@ -11,8 +11,8 @@ A task management application allows users to add, edit, delete, and categorize 
   - Tasks automatically move to the "Timeout" category if they exceed their deadline.
 - **Responsive UI**:
   - Designed to be mobile-friendly and visually appealing.
-  - Uses CSS for styling to ensure a modern and clean look.
+  - Uses CSS for styling to ensure a modern and clean loo
 
 ## Deployment
 
-Kindly Check this link to Visit the application 
+Kindly Check this link to Visit the application http://Sk-Siva.github.io/task-management-app
